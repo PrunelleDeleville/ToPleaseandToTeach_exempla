@@ -1,0 +1,320 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+      {
+         "@id": "2643743",
+         "uuid": "https://www.geonames.org/2643743",
+         "type":"Feature",
+         "properties": {
+            "title":"Londres",
+            "occurrences": [
+                  {"value": 2}
+            ]
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               51,
+               0
+            ]
+         },
+         "descriptions": [
+                {"value": "2 manuscrits"}
+            ],
+         "names": [
+            {
+               "toponym": "Londres",
+               "lang": "fr"
+            }
+         ],
+         "links": [
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/2643743"
+            },
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/746826"
+
+            }
+         ],
+         "relations": [
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "BL, Add. 25719",
+                  "auteur": "inconnu",
+                    "date": "milieu XVe siècle",
+                    "langue": "Moyen anglais",
+                    "type": "Manuscrit peu luxueux",
+                    "version": "Alphabet of Tales",
+                    "contenu":"Traduction anglaise complète de l'Alphabetum narrationum",
+                    "possesseur": "inconnu",
+                    
+                    "thème1": "abbé", "thème2": "abbesse", "thème3": "cacher", "thème4": "absolution", "thème5": "abstinence"
+             },
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "BL, Royal 15 DV",
+                  "auteur": "Jean Mansel",
+                    "date": "fin XVe siècle",
+                    "langue": "Moyen français",
+                    "type": "Manuscrit luxueux",
+                    "version": "Exemples moraux",
+                    "contenu": "Traduction française abrégée de l'Alphabetum narrationum",
+                    
+                    "autres textes": "saint Grégoire",
+                    "manuscrit associé": "Paris, BnF, fr. 911",
+                    "possesseur": "Edouard IV",
+                    "thème1": "abbé", "thème2": "abbesse", "thème3": "abstinence", "thème4": "acédie", "thème5": "arbre", "thème6": "adultère", "thème7": "ambition"
+             }
+         ]
+      },
+      {
+         "@id": "3117735",
+         "uuid": "https://www.geonames.org/3117735",
+         "type":"Feature",
+         "properties": {
+            "title":"Madrid",
+            "occurrences": [
+                  {"value": 6}
+            ]
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               40,
+               3
+            ]
+         },
+         "descriptions": [
+                {"value": "6 manuscrits"}
+            ],
+         "names": [
+            {
+               "toponym": "Madrid",
+               "lang": "fr"
+            }
+         ],
+         "links": [
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3117735"
+            },
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/746826"
+
+            }
+         ],
+         "relations": [
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "Biblioteca nacional de España, 117",
+                    "auteur": "Santiago de la Voragine",
+                    "date": "début XVe siècle",
+                    "langue": "castillan",
+                    "langue des rubriques": "castillan",
+                    "type": "Manuscrit peu luxueux",
+                    "version": "Espejo de los legos",
+                    "contenu": "Traduction du Speculum laicorum",
+                    
+                    "autres textes": "Estoria de la fiesta del cuerpo de Dios de Jacobo de Vorágine",
+                    "manuscrit associé": "aucun",
+                    "possesseur": "inconnu",
+                    "thème1": "abstinence", "thème2": "gain", "thème3": "avocat", "thème4": "adultère", "thème5": "amour de Dieu", "thème6": "amour du monde", "thème7": "amour charnel", "thème8": "amitié", "thème9": "apostat", "thème 10": "avarice", "thème11": "alguazise??", "thème12": "baptême", "thème13": "blasphème", "thème14": "chasteté" 
+             }
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "Biblioteca nacional de España, 18465",
+                    "auteur": "inconnu",
+                    "date": "début XVe siècle",
+                    "langue": "castillan",
+                    "langue des rubriques": "castillan",
+                    "type": "Manuscrit peu luxueux",
+                    "version": "Espejo de los legos",
+                    "contenu": "Traduction castillane du Speculum laicorum",
+                    
+                    "autres textes": "aucun",
+                    "manuscrit associé": "aucun",
+                    "possesseur": "inconnu",
+                    "thème1": "abstinence", "thème2": "gain", "thème3": "avocat", "thème4": "adultère", "thème5": "amour de Dieu", "thème6": "amour du monde", "thème7": "amour charnel", "thème8": "amitié", "thème9": "apostat", "thème 10": "avarice", "thème11": "vayles??", "thème12": "baptême", "thème13": "blasphème", "thème14": "charité", "thème 15": "chasteté" 
+             }
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "Biblioteca nacional de España, 1492",
+                    "auteur": "inconnu",
+                    "date": "?",
+                    "langue": "castillan",
+                    "type": "Manuscrit peu luxueux",
+                    "version": "Espejo de los legos",
+                    "contenu": "Traduction castillane du Speculum laicorum",
+                    
+                    "autres textes": "aucun",
+                    "manuscrit associé": "aucun",
+                    "possesseur": "inconnu",
+             }
+              {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "Carlos Fitz-James Stuart y Martínez de Irujo, Duque de Alba",
+                    "auteur": "inconnu",
+                    "date": "?",
+                    "langue": "castillan",
+                    "langue des rubriques": "?",
+                    "type": "Manuscrit peu luxueux",
+                    "version": "Espejo de los legos",
+                    "contenu": "Traduction du Speculum laicorum",
+                    
+                    "autres textes": "aucun",
+                    "manuscrit associé": "aucun",
+                    "possesseur": "inconnu",
+             }
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "Biblioteca nacional de España, 1182",
+                    "auteur": "Clemente Sanchez de Vercial",
+                    "date": "début XVe siècle",
+                    "langue": "castillan",
+                    "langue des rubriques": "latin",
+                    "type": "Manuscrit très peu luxueux",
+                    "version": "Libro de los exenplos, por A.B.C.",
+                    "contenu": "recueil d'exempla",
+                    
+                    "autres textes": "Libro de los gatos, exemples moraux, un texte latin, traduction d'une Confessio, collection d'apologues",
+                    "manuscrit associé": "aucun",
+                    "possesseur": "inconnu",
+                    "thème": ""
+             }
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "Biblioteca nacional de España, 1182",
+                    "auteur": "inconnu",
+                    "date": "début XVe siècle",
+                    "langue": "castillan",
+                    "langue des rubriques": "latin",
+                    "type": "Manuscrit très peu luxueux",
+                    "version": "Libro de los gatos",
+                    "contenu": "recueil d'exempla anonyme",
+                    
+                    "autres textes": "Traité de confession, Libro de los exenplos, por A.B.C., un texte latin, collection d'apologues",
+                    "manuscrit associé": "aucun",
+                    "possesseur": "inconnu",
+                    
+             }
+         ]
+      },{
+         "@id": "3128760",
+         "uuid": "https://www.geonames.org/3128760",
+         "type":"Feature",
+         "properties": {
+            "title":"",
+            "occurrences": [
+                  {"value": 1}
+            ]
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               41,
+               2
+            ]
+         },
+         "descriptions": [
+                {"value": "1 manuscrit"}
+            ],
+         "names": [
+            {
+               "toponym": "Barcelone",
+               "lang": "fr"
+            }
+         ],
+         "links": [
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/3128760"
+            },
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/746826"
+
+            }
+         ],
+         "relations": [
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "Biblioteca de l’Universitat de Barcelona, ms. 89",
+                  "auteur": "inconnu",
+                    "date": "moitié XVe siècle",
+                    "langue": "catalan",
+                    "langue des rubriques": "catalan et latin",
+                    "type": "Manuscrit peu luxueux",
+                    "version": "Recull d'exemples i miracles ordenat per alfabet",
+                    "contenu":"Traduction catalane de l'Alphabetum narrationum",
+                    "autres textes": "Eximpli e miracle de ssent edimon Rey danglaterra molt deuot del titol della creu de Ihesuchrist",
+                    "possesseur": "inconnu",
+                    
+                    "thème1": "abbé", "thème2": "abbesse", "thème3": "cacher", "thème4":"absolution", "thème5": "abstinence", "thème 6": "acédie", "thème7": "accusation", "thème8": "adulateur", "thème 9": "adultère", "thème10": "avocat", "thème11": "amour charnel", "thème12": "agriculteur", "thème13": "Agnès sainte", "thème14": "ambition"
+             },
+             {
+         "@id": "2988507",
+         "uuid": "https://www.geonames.org/2988507",
+         "type":"Feature",
+         "properties": {
+            "title":"",
+            "occurrences": [
+                  {"value": 1}
+            ]
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               48,
+               2
+            ]
+         },
+         "descriptions": [
+                {"value": "1 manuscrit -à compléter"}
+            ],
+         "names": [
+            {
+               "toponym": "Paris",
+               "lang": "fr"
+            }
+         ],
+         "links": [
+            {
+               "type": "closeMatch",
+               "identifier": "https://www.geonames.org/2988507"
+            },
+            {
+               "type": "closeMatch",
+               "identifier": "https://pleiades.stoa.org/places/746826"
+
+            }
+         ],
+         "relations": [
+             {
+                  "relationType": "gvp:aat2208_locus-setting_for",
+                  "title": "BnF fr.432",
+                  "auteur": "Clemente Sanchez de Vercial",
+                    "date": "début XVe siècle",
+                    "langue": "castillan",
+                    "langue des rubriques": "latin",
+                    "type": "Manuscrit peu luxueux",
+                    "version": "Libro de los exenplos, por A.B.C.",
+                    "contenu":"recueil d'exempla",
+                    "autres textes": " Traité de la confession",
+                    "possesseur": "inconnu",
+                    
+                    "thème1": "abbé", "thème2": "abstinence", "thème3": "acédie", "thème4":"accusation fausse", "thème5": "adulateur", "thème 6": "avocat", "thème7": "adultère", "thème8": "amour du monde", "thème 9": "amitié", "thème 10": "amour du monde", "thème11": "amour chrétien", "thème12": "amour véhément", "thème13": "âme", "thème14": "anges"
+             }
+             
+         ]
+      },
+     
+
+
+
+
+      ]
+}
