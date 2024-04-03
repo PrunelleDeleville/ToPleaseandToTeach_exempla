@@ -12,7 +12,9 @@
     }
   ],
   "facets": [
-	  { "name": "Langue", "path": ["relations", "langue"] }
+	  { "name": "Date", "path": ["relations", "date"] },
+	  { "name": "Langue", "path": ["relations", "langue"] },
+	  { "name": "Type", "path": ["relations", "type"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
