@@ -91,7 +91,7 @@ const ItemCard = props => {
       <header 
         aria-disabled
         style={{ 
-          backgroundColor: '##6D071A',
+          backgroundColor: '#6D071A',
           justifyContent: props.backButton ? 'space-between' : 'flex-end'
         }}>
         
